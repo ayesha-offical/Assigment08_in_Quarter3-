@@ -29,7 +29,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/dawai-finder.git
+git clone https://github.com/ayesha-offical/Assigment08_in_Quarter3-.git
 cd dawai-finder
 # Create a virtual environment:
 
